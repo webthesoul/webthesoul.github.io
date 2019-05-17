@@ -1,16 +1,17 @@
 ---
-title: "테스트 포스팅의 흔적"
-date: 2019-05-17 09:40:00 -0400
+title: 테스트 포스팅의 흔적
+date: '2019-05-17 09:40:00 -0400'
+thumbnail: /images/uploads/test_image.jpg
+rating: 5
 ---
-
 포스팅 테스트. 한글 노출 확인.
 문장이 길 경우는? 확인이 필요합니다. 
 
-언어의 문자 표기 시 단어 또는 의미 단위의 간격을 벌리는 표기법. 으뜸말이 '띄우다'가 아니라 '띄다'이기 때문에 띄워쓰기가 아니라 띄어쓰기가 올바른 표기다.[2] 사전 '한 단어이기 때문에, '띄어 쓰기'로 띄어 써도 안 된다. 띄어쓰기는 띄어 쓰지 않는다 다만 '띄어 쓰다'는 띄어 쓴다(바로 앞과 같이). 한 가지 더 추가하자면 '띄어쓰기하다'는 붙여서 쓴다. 북한의 문화어에서는 띄여쓰기라고 한다. 문화어에서는 전설 모음 뒤에 오는 '-어'를 모두 '-여'로 적기 때문에(예: '되였다, 하시였다' 등) '띄어쓰기'에도 그대로 적용된 것이다. 이게 뭔 소리야
+언어의 문자 표기 시 단어 또는 의미 단위의 간격을 벌리는 표기법. 으뜸말이 '띄우다'가 아니라 '띄다'이기 때문에 띄워쓰기가 아니라 띄어쓰기가 올바른 표기다.\[2] 사전 '한 단어이기 때문에, '띄어 쓰기'로 띄어 써도 안 된다. 띄어쓰기는 띄어 쓰지 않는다 다만 '띄어 쓰다'는 띄어 쓴다(바로 앞과 같이). 한 가지 더 추가하자면 '띄어쓰기하다'는 붙여서 쓴다. 북한의 문화어에서는 띄여쓰기라고 한다. 문화어에서는 전설 모음 뒤에 오는 '-어'를 모두 '-여'로 적기 때문에(예: '되였다, 하시였다' 등) '띄어쓰기'에도 그대로 적용된 것이다. 이게 뭔 소리야
 
 띄어쓰기의 역사는 라틴어에서 시작되었다. 원래는 라틴어에도 띄어쓰기가 없었고, 의미 분절이 필요할 때에는 가운뎃점(·)을 사용하였다. 하지만 서기 200년경에 가운뎃점 없이 이어 쓰는 것이 뜬금없이유행하여 가운뎃점마저 사라졌다. 그러다가 600년~800년경에 라틴어를 구어가 아닌 문어로 받아들여야 했던 아일랜드의 수사들에 의해 띄어쓰기(그리고 마침표)가 도입되어 라틴 문자를 사용하는 유럽 전 지역에 널리 퍼지게 되었다. 여기에서 알 수 있듯이 띄어쓰기는 서양의 문자 습관이었기 때문에 서양의 문물이 들어오기 전까지 동양의 정서법에서는 띄어쓰기가 사용되지 않았다.
 
-언어마다 그 규칙이 다르다. 이를테면 대부분의 유럽 언어는 반드시 단어와 단어 사이를 띄어 줘야 하고[3] 중국어나 일본어, 태국어같이 단어별 띄어쓰기를 하지 않는 언어가 있는 반면, 베트남어는 음절마다 띄어쓰기를 한다.
+언어마다 그 규칙이 다르다. 이를테면 대부분의 유럽 언어는 반드시 단어와 단어 사이를 띄어 줘야 하고\[3] 중국어나 일본어, 태국어같이 단어별 띄어쓰기를 하지 않는 언어가 있는 반면, 베트남어는 음절마다 띄어쓰기를 한다.
 
 영어에서는 반드시 띄어줘야 한다. I LOVE YOU를 보면 띄어쓰기로 인해 단어를 구분할 수 있으며 "나(는)" 이렇게 조사의 의미가 첨부되고 어순 자체로 주어와 동사, 목적어가 결정되기 때문에 주어를 생략할 수 없다. 반면 한국어나 일본어에서는 조사가 단어 사이를 끊어주고 품사를 정해주는 역할을 하기 때문에 아예 띄어쓰기를 하지 않거나 약간만 해줘도 읽는데 크게 지장을 주지 않는다. 조사로 인해 "너를 나는 사랑해"로 써도 주어와 목적어를 혼동하지 않기 때문에 어순에서 자유롭고 주어를 생략해도 무방해서 "너를 사랑해"로 쓰는 경우가 많다.
 
@@ -18,14 +19,8 @@ date: 2019-05-17 09:40:00 -0400
 
 Jekyll also offers powerful support for code snippets:
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+```
+function test(hey) {    console.log(hey);}
+```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Check out the [Jekyll docs](https://jekyllrb.com/docs/home) for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo](https://github.com/jekyll/jekyll). If you have questions, you can ask them on [Jekyll Talk](https://talk.jekyllrb.com/).
